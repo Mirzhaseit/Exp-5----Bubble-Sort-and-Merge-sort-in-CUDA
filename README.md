@@ -333,4 +333,4 @@ int main() {
 <img width="1731" height="417" alt="image" src="https://github.com/user-attachments/assets/3a1a3351-bc24-47f6-a7cb-27ba5d21001c" />
 
 ## RESULT:
-Thus, the program has been executed using CUDA to ________________.
+Thus, the program has been executed using CUDA to check the performance of bubble sort and merge sort elapsed time.
